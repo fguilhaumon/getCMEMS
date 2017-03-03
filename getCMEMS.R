@@ -1,6 +1,6 @@
 ################################################
 #
-# R wrapper for CMEMS3567_GLO_Daily_by_Month.py
+# R wrapper for motu CMEMS data download
 #
 # francois.guilhaumon@ird.fr
 ################################################
